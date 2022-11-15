@@ -17,22 +17,4 @@ o	Display a list of all the alarms set by user
 o	For each alarm give a delete button to delete the alarm
 o	When the user deletes an alarm make sure it “does not alerts the user”
 
-Points on which the project will be judged
-•	All functionalities mentioned above
-•	Github
-o	Readme.md file
-o	Hosted code on Github
-•	Code
-o	Comments
-o	Structuring of code
-o	Indentation
-o	Variables and functions naming
-•	Styling
-•	Hosting
-•	Design
-•	Video (explanation about the project)
-•	Creativity
-
-
-
 I have developed alarm clock using vanila js . You can know abount its features by watching this video - https://youtu.be/BERi32XYlqk
