@@ -27,4 +27,4 @@ o	When the user deletes an alarm make sure it “does not alerts the user”
 
 I have developed alarm clock using vanila js. 
 
-You can know abount its features by watching this video - https://youtu.be/BERi32XYlqk
+You can know about its features by watching this video - https://youtu.be/BERi32XYlqk
